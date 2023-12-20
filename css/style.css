@@ -394,10 +394,8 @@ p {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.form-container {
+.form {
   display: flex;
-}
-.form-label {
   gap: 24px;
 }
 .form-input {
