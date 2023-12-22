@@ -571,4 +571,12 @@ p {
   fill: transparent; 
 
 }
-
+.input-checkbox:checked .span-container {
+  background-color: #404bbf;
+  border: none;
+  fill:  #F4F4FD;
+}
+.text-link {
+  color: #4d5ae5;
+  
+}
