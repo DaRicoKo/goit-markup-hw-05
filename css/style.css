@@ -487,3 +487,17 @@ p {
   color: #2E2F42;
   margin-bottom: 16px; 
 }
+.container-leb {
+  margin-bottom: 8px;
+}
+.form-leb-container {
+  font-size: 12px;
+  line-height: 1.17; 
+  letter-spacing: 0.04em; 
+  color: #8e8f99; 
+  display: block; 
+  margin-bottom: 4px; 
+}
+.inp-form {
+  position: relative; 
+}
